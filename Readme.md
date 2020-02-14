@@ -4,9 +4,9 @@
 Program scrapes from various sources about CSE Courses at OSU.
 
 ## SETUP:
-1.) run 'bundler install' in lab3 directory
+1.) run 'bundler install' in the 'OSU Course Scraper' directory
 
-2.) run ruby Main.rb file in lab3 directory
+2.) run ruby Main.rb file in 'OSU Course Scraper' directory
 
 ## COMMANDS: 
 Commands consist of three parts an action, -> symbol, and arguments with no spaces between the three portions
