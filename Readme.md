@@ -1,4 +1,4 @@
-# LAB 3: COURSE SCRAPER
+# OSU COURSE SCRAPER
 
 ## DESCRIPTION:
 Program scrapes from various sources about CSE Courses at OSU.
