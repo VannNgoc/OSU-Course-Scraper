@@ -1,0 +1,165 @@
+CSE 3521 (Approved): Survey of Artificial Intelligence I: Basic
+Techniques
+
+
+Course Description
+Survey of basic concepts and techniques in artificial intelligence, including problem solving, knowledge
+representation, and machine learning.
+
+Prior Course Number: CSE 630
+Transcript Abbreviation: Intr Artif Intell
+
+Grading Plan: Letter Grade
+Course Deliveries: Classroom
+Course Levels: Undergrad
+Student Ranks: Junior
+Course Offerings: Autumn, Spring
+Flex Scheduled Course: Never
+Course Frequency: Every Year
+Course Length: 14 Week
+
+Credits: 3.0
+Repeatable: No
+Time Distribution: 3.0 hr Lec
+Expected out-of-class hours per week: 6.0
+Graded Component: Lecture
+Credit by Examination: No
+Admission Condition: No
+Off Campus: Never
+Campus Locations: Columbus
+
+Prerequisites and Co-requisites: CSE 2331 or (CSE 222 and Math 366) or senior standing
+Exclusions: Not open to students with credit for CSE 5521 or CSE 630
+Cross-Listings:
+
+The course is required for this unit's degrees, majors, and/or minors: No
+The course is a GEC: No
+The course is an elective (for this or other units) or is a service course for other units: Yes
+
+Subject/CIP Code: 14.0901
+Subsidy Level: Baccalaureate Course
+
+
+Programs
+
+ Abbreviation                                Description
+
+ BS CSE                                      BS Computer Science and Engineering
+
+Course Goals
+
+ Master basic search techniques for problem-solving, including systematic blind search, heuristically-guided search, and optimal
+ search.
+
+ Be competent with game tree search methods and the requirements for expert-level game play.
+ Be familiar with using logic and proof as a basis for knowledge representation and automated reasoning.
+ Be familiar with multiple knowledge-representation formalisms.
+ Be exposed to problems in common sense reasoning and language understanding.
+
+ Be exposed to integrated AI architectures as a platform for building AI systems. Be exposed to machine learning techniques and the kinds of problem they solve.
+ Be exposed to state-of-the-art AI applications related to robotics, machine vision, speech recognition, and computer games.
+
+
+Course Topics
+
+
+ Topic                                                   Lec    Rec     Lab    Cli     IS     Sem     FE     Wor
+ Basic representation and problem solving methods.        6.0
+
+ Search techniques and game playing.                      6.0
+ Knowledge representation using logic, automated proof    6.0
+ techniques.
+
+ Machine learning, probabilistic inference.               6.0
+ Planning and common sense reasoning.                     3.0
+ Perception and communication.                            4.0
+
+ Applications.                                            6.0
+ AI & Games.                                              3.0
+
+
+
+Representative Assignments
+
+ Compare breadth-first, depth-first, and A* search on a problem domain.
+ Apply reinforcement learning to maze navigation.
+
+
+Grades
+
+
+ Aspect                                                                                                   Percent
+
+ Homeworks and Labs                                                                                         40%
+ Midterm                                                                                                    25%
+ Final                                                                                                      35%
+
+
+
+Representative Textbooks and Other Course Materials
+
+ Title                                                                Author
+
+ Artificial Intelligence, A Modern Approach (3rd edition)             Stuart Russell and Peter Norvig
+
+
+ABET-EAC Criterion 3 Outcomes
+
+
+ Course Contribution          College Outcome
+ ***                       a  An ability to apply knowledge of mathematics, science, and engineering.
+
+ *                         b  An ability to design and conduct experiments, as well as to analyze and interpret data.
+ **                        c  An ability to design a system, component, or process to meet desired needs.
+                           d  An ability to function on multi-disciplinary teams.
+
+ **                        e  An ability to identify, formulate, and solve engineering problems.
+ *                         f  An understanding of professional and ethical responsibility.
+
+                           g  An ability to communicate effectively.
+ *                         h  The broad education necessary to understand the impact of engineering solutions in a global and
+                              societal context.
+
+ *                         i  A recognition of the need for, and an ability to engage in life-long learning.
+                           j  A knowledge of contemporary issues. CoourrseCoonttrbuution       CoolegeeOuutcoomee
+ **                       k   An ability to use the techniques, skills, and modern engineering tools necessary for engineering
+                              practice.
+
+
+BS CSE Program Outcomes
+
+
+ Course Contribution          Program Outcome
+
+ ***                       a  an ability to apply knowledge of computing, mathematics including discrete mathematics as
+                              well as probability and statistics, science, and engineering;
+ *                         b  an ability to design and conduct experiments, as well as to analyze and interpret data;
+ **                        c  an ability to design, implement, and evaluate a software or a software/hardware system,
+                              component, or process to meet desired needs within realistic constraints such as memory,
+
+                              runtime efficiency, as well as appropriate constraints related to economic, environmental, social,
+                              political, ethical, health and safety, manufacturability, and sustainability considerations;
+                           d  an ability to function on multi-disciplinary teams;
+ **                        e  an ability to identify, formulate, and solve engineering problems;
+
+ *                         f  an understanding of professional, ethical, legal, security and social issues and responsibilities;
+                           g  an ability to communicate effectively with a range of audiences;
+
+ *                         h  an ability to analyze the local and global impact of computing on individuals, organizations, and
+                              society;
+ *                         i  a recognition of the need for, and an ability to engage in life-long learning and continuing
+                              professional development;
+                           j  a knowledge of contemporary issues;
+
+ **                        k  an ability to use the techniques, skills, and modern engineering tools necessary for practice as a
+                              CSE professional;
+ **                        l  an ability to analyze a problem, and identify and define the computing requirements appropriate
+                              to its solution;
+
+ *                        m   an ability to apply mathematical foundations, algorithmic principles, and computer science
+                              theory in the modeling and design of computer-based systems in a way that demonstrates
+                              comprehension of the tradeoffs involved in design choices;
+ **                        n  an ability to apply design and development principles in the construction of software systems of
+                              varying complexity.
+
+Prepared by: James Davis

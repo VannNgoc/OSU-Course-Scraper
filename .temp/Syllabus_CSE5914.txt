@@ -1,0 +1,178 @@
+CSE 5914: Capstone Design: Knowledge-Based Systems
+
+Course Description
+
+Capstone design project; conceptual and technical design; theory and practice of knowledge-based systems;
+teamwork, written and oral communication skills.
+
+Prior Course Number: CSE 731
+Transcript Abbreviation: Cpstn: Knowl Sys
+Grading Plan: Letter Grade
+Course Deliveries: Classroom
+Course Levels: Undergrad, Graduate
+Student Ranks: Senior, Masters, Doctoral
+Course Offerings: Spring
+Flex Scheduled Course: Never
+
+Course Frequency: Every Year
+Course Length: 14 Week
+Credits: 4.0
+Repeatable: No
+Time Distribution: 1.0 hr Lec, 3.0 hr Lab
+Expected out-of-class hours per week: 8.0
+Graded Component: Lecture
+Credit by Examination: No
+
+Admission Condition: No
+Off Campus: Never
+Campus Locations: Columbus
+Prerequisites and Co-requisites: (CSE 2501 or CSE 5501 or CSE 601) and (CSE 3901 or CSE 3902 or CSE
+4901 or CSE 4902 or CSE 560) and (CSE 3521 or CSE 5521 or CSE 630)
+Exclusions: Not open to students with credit for CSE 731
+Cross-Listings:
+
+Course Rationale: Existing course.
+
+The course is required for this unit's degrees, majors, and/or minors: No
+The course is a GEC: No
+The course is an elective (for this or other units) or is a service course for other units: Yes
+
+Subject/CIP Code: 14.0901
+
+Subsidy Level: Doctoral Course
+
+Programs
+
+
+ Abbreviation                               Description
+ BS CSE                                     BS Computer Science and Engineering
+ MS CSE                                     MS Computer Science and Engineering
+ PhD CSE                                    PhD Computer Science and Engineering
+
+
+Course Goals
+
+ Master task-level analysis and problem solving methods for configuration (design) problems.
+
+ Be competent with methods for representing and reasoning with uncertain knowledge.
+ Be familiar with the analysis and methods of diagnosis problems. Master synthesizing and applying prior knowledge to designing and implementing solutions to open-ended computational problems
+ while considering multiple realistic constraints.
+ Be competent in evaluating design alternatives.
+ Be competent with software design and development practices and standards.
+
+ Be familiar with researching and evaluating computing tools and practices for solving given problems.
+ Be competent with deadline driven projects in a team setting.
+
+ Be competent with issues of project management, such as teamwork, project scheduling, individual and group time management.
+ Be competent with presenting work to a group of peers.
+ Be familiar with presenting work to a range of audiences.
+
+ Be competent with techniques for effective written communication for a range of purposes (user guides, design documentation,
+ storyboards etc.).
+ Be familiar with analyzing professional issues, including ethical, legal and security issues, related to computing projects.
+
+ Master task-level analysis and problem solving methods for classification problems.
+
+
+Course Topics
+
+ Topic                                                  Lec     Rec    Lab     Cli    IS     Sem     FE     Wor
+
+ Introduction and overview                                1.0
+ Production system languages, CLIPS                       2.0           3.0
+
+ Classification and diagnosis                             2.0           3.0
+ Configuration and design                                 2.0           3.0
+ Reasoning with uncertain knowledge                       2.0           3.0
+
+ Generic tasks and architectures; abduction methods       2.0           3.0
+ Current trends: Expert systems in industry               1.0
+
+ Design meetings, team work                                             18.0
+ Presentations                                                          8.0
+
+
+Representative Assignments
+
+ Final Project: Design and implement an expert system for a real-world problem.
+
+
+
+Grades
+
+ Aspect                                                                                                  Percent
+
+ Midterm exam                                                                                              35%
+ Final project                                                                                             60%
+
+ Attendance                                                                                                 5%
+
+
+Representative Textbooks and Other Course Materials
+
+ Title                                                               Author
+
+ Introduction to Knowledge Systems                                   Stefik, M
+
+
+ABET-EAC Criterion 3 Outcomes
+
+ Course Contribution          College Outcome
+
+ ***                       a  An ability to apply knowledge of mathematics, science, and engineering. Coourrse Coontributtonn       CollegeeOuuttcomee
+ *                         b   An ability to design and conduct experiments, as well as to analyze and interpret data.
+
+ ***                       c   An ability to design a system, component, or process to meet desired needs.
+ ***                       d   An ability to function on multi-disciplinary teams.
+
+ ***                       e   An ability to identify, formulate, and solve engineering problems.
+ **                        f   An understanding of professional and ethical responsibility.
+
+ ***                       g   An ability to communicate effectively.
+ *                         h   The broad education necessary to understand the impact of engineering solutions in a global and
+                               societal context.
+ ***                       i   A recognition of the need for, and an ability to engage in life-long learning.
+
+ ***                       j   A knowledge of contemporary issues.
+ ***                       k   An ability to use the techniques, skills, and modern engineering tools necessary for engineering
+                               practice.
+
+
+BS CSE Program Outcomes
+
+
+ Course Contribution           Program Outcome
+
+ ***                        a  an ability to apply knowledge of computing, mathematics including discrete mathematics as
+                               well as probability and statistics, science, and engineering;
+ *                         b   an ability to design and conduct experiments, as well as to analyze and interpret data;
+ ***                        c  an ability to design, implement, and evaluate a software or a software/hardware system,
+
+                               component, or process to meet desired needs within realistic constraints such as memory,
+                               runtime efficiency, as well as appropriate constraints related to economic, environmental, social,
+                               political, ethical, health and safety, manufacturability, and sustainability considerations;
+ ***                       d   an ability to function on multi-disciplinary teams;
+ ***                        e  an ability to identify, formulate, and solve engineering problems;
+
+ **                         f  an understanding of professional, ethical, legal, security and social issues and responsibilities;
+ ***                       g   an ability to communicate effectively with a range of audiences;
+
+ *                         h   an ability to analyze the local and global impact of computing on individuals, organizations, and
+                               society;
+ ***                        i  a recognition of the need for, and an ability to engage in life-long learning and continuing
+                               professional development;
+
+ ***                        j  a knowledge of contemporary issues;
+ ***                       k   an ability to use the techniques, skills, and modern engineering tools necessary for practice as a
+                               CSE professional;
+ ***                        l  an ability to analyze a problem, and identify and define the computing requirements appropriate
+
+                               to its solution;
+ ***                       m   an ability to apply mathematical foundations, algorithmic principles, and computer science
+                               theory in the modeling and design of computer-based systems in a way that demonstrates
+                               comprehension of the tradeoffs involved in design choices;
+ ***                       n   an ability to apply design and development principles in the construction of software systems of
+                               varying complexity.
+
+
+Prepared by: John Fosler-Lussier
